@@ -12,6 +12,7 @@
 		C7B428EB2115EBCC00B77552 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7B428E92115EBCC00B77552 /* Main.storyboard */; };
 		C7B428ED2115EBD400B77552 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7B428EC2115EBD400B77552 /* Assets.xcassets */; };
 		C7B428F02115EBD400B77552 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7B428EE2115EBD400B77552 /* LaunchScreen.storyboard */; };
+		C7B428FA2115EDD700B77552 /* indicatorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7B428F92115EDD700B77552 /* indicatorButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C7B428EC2115EBD400B77552 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7B428EF2115EBD400B77552 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7B428F12115EBD400B77552 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7B428F92115EDD700B77552 /* indicatorButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = indicatorButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				C7B428E52115EBCC00B77552 /* AppDelegate.swift */,
 				C7B428E72115EBCC00B77552 /* ViewController.swift */,
+				C7B428F92115EDD700B77552 /* indicatorButton.swift */,
 				C7B428E92115EBCC00B77552 /* Main.storyboard */,
 				C7B428EC2115EBD400B77552 /* Assets.xcassets */,
 				C7B428EE2115EBD400B77552 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				C7B428E82115EBCC00B77552 /* ViewController.swift in Sources */,
 				C7B428E62115EBCC00B77552 /* AppDelegate.swift in Sources */,
+				C7B428FA2115EDD700B77552 /* indicatorButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
